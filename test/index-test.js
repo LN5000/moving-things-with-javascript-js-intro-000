@@ -16,4 +16,8 @@ describe('index', () => {
     //expect(true).to.be.true
   })
 })
+<<<<<<< HEAD
 // revisit this and get this test to run. current code performs the functionality the lab is calling for, at least superficially.
+=======
+// revisit this and get this test to run. current code performs the functionality the lab is calling for, at least superficially.
+>>>>>>> 41173e5505af556f51e3109497195aa6cc62d1cc
